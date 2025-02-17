@@ -1,7 +1,7 @@
 local discord = require "gamesense/discord_webhooks"
 
-local Webhook = discord.new("https://discord.com/api/webhooks/1340769702825300153/sM9tAeUEnBvyijqF6yUtM0fzVuP3F_AJmI_2g8YmX5eOCIExxFZY9Qem-n529V15_RYU")
-local RichEmbed = discord.newEmbed()
+local Webhook = discord.new("вебхук")
+local errorEmbed3 = discord.newEmbed()
 
 Webhook:setUsername("долбоеб")
 errorEmbed3:setTitle('User: лдолбоеб пососал хуйца негру ')
